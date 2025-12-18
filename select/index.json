@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "都合",
+  "base_artist": "君島大空",
+  "createdAt": "2025-12-18T08:42:36.572031Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "都合",
+      "artist": "君島大空",
+      "has_synced": false,
+      "path": "select/pl_01_都合_君島大空.txt"
+    }
+  ]
+}
